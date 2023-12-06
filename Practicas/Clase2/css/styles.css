@@ -1,0 +1,19 @@
+html {
+scroll-behavior: smooth;
+}
+
+body {
+    background-color: #131214;
+}
+
+h1, h5, h2 {
+    color: #D1CDC7;
+}
+
+li, a {
+    color: #7DEDA5;
+}
+
+p {
+    color: #D1CDC7;
+}
