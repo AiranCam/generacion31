@@ -1,0 +1,39 @@
+.spadre {
+    width: 300px;
+    margin: 300px auto;
+}
+
+
+.s1, .s2, .s3 {
+    background-color: #D2691E;
+    width: 200px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.p1::after {
+    content: "🤠🤠";
+}
+
+.p1::before {
+    content: "🤠🤠";
+}
+
+.p2::after {
+    content: "🤝🤝";
+}
+
+.p2::before {
+    content: "🤝🤝";
+}
+
+.p3::after {
+    content: "🎅🎅";
+}
+
+.p3::before {
+    content: "🎅🎅";
+}
